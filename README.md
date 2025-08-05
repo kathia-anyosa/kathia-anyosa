@@ -12,7 +12,6 @@
 <p>
     <img alt="Spring Boot" align="center" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"/>
     <img alt="Junit5" align="center" src="https://img.shields.io/badge/Junit-%23E33332?logo=junit5&logoColor=white"/>
-    <img alt="Selenium" align="center" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff"/>
 </p>
 
 ### Developer Tools
