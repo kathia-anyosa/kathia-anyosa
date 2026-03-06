@@ -1,4 +1,4 @@
-## Hi there, I'm Kat and this is my current tech stack: 👋
+## Hi, I'm Kat and this is my current tech stack: 👋
 ### Languages
 <p>
     <img alt="Java" align="center" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
